@@ -5,6 +5,9 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+//글 등록에 쓰이는 객체
+//
+
 @Getter
 @NoArgsConstructor
 public class PostsSaveRequestDto {

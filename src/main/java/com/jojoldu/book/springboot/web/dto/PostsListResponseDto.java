@@ -5,6 +5,9 @@ import lombok.Getter;
 
 import java.time.LocalDateTime;
 
+//이 클래스는 게시판 글 목록을 담을 객체로서 선언됨
+//
+
 @Getter
 public class PostsListResponseDto {
     private Long id;
